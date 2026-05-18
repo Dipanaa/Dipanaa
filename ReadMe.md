@@ -3,9 +3,9 @@
 
 ## Ingeniero en Informática | FullStack Developer & Data Enthusiast<br>Enfocado en construir software mantenible y escalable.<br><br>
 
-### 🚀 Sobre mí<br>- 🎓 Recién graduado de Ingeniería en Informática.<br>- 📚 Leyendo "The Pragmatic Programmer" para perfeccionar mi artesanía en el código.<br>- 🎯 Mi meta: Evolucionar hacia la **Arquitectura Cloud**.<br><br>
+### 🚀 Sobre mí<br>- 🎓 Recién graduado de Ingeniería en Informática.<br>- 📚 Leyendo "The Pragmatic Programmer" para perfeccionar la arquitectura en el código.<br>- 🎯 Mi meta: Evolucionar hacia la **Arquitectura Cloud**.<br><br>
 
-### 🛠️ Tecnologías y Herramientas<br>- **FrontEnd:** JavaScript, TypeScript, Tailwind CSS, Angular.<br>- **Backend:** C#, .NET, ASP.NET Core, Python, Djangor.<br>- **Data:** SQL, Pandas, Power BI, Excel, SQL Server, MySQL.<br>- **Cloud:** Azure.<br><br>
+### 🛠️ Tecnologías y Herramientas<br>- **FrontEnd:** JavaScript, TypeScript, Tailwind CSS, Angular.<br>- **Backend:** C#, .NET, ASP.NET Core, Python, Djangor.<br>- **Data:** SQL, Pandas, Power BI, Excel, SQL Server, MySQL.<br>- **Cloud:** Azure y GCP.<br><br>
 
 ### 📁 Proyectos Destacados<br>- **[Sistema de gestión de proyectos con integración móvil, web y análisis IA.]**: Sistema integral de gestión (Landing + Admin + API).<br><br>
 
