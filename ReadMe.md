@@ -1,5 +1,5 @@
 
-# ¿Qué tal?, Soy Diego Guerra y bienevenid@ a mi perfil de GitHub. 👋
+# ¿Qué tal?, Soy Diego Guerra y bienvenid@ a mi perfil de GitHub. 👋
 
 ## Ingeniero en Informática | FullStack Developer & Data Enthusiast<br>Enfocado en construir software mantenible y escalable.<br><br>
 
